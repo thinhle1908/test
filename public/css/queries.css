@@ -1,0 +1,199 @@
+@media only screen  and (max-width:1200px){
+  header.top-header{
+      background-position: center;
+  }
+  .properties{
+      padding: 35px 300px;
+  }
+  .bn-c2{
+      width: 47%;
+      padding-left:55px;
+  }
+  .chia-cot-an-banner{
+      width: 0%;
+  }
+  .banner .bn-c1 .bn-form {
+      width: 250px;
+  }
+  .bn-c1 .h1-slogan
+  {
+      font-size: 3rem;
+  }
+  .banner{
+      padding-bottom: 100px;
+  }
+  .popular-course {
+      padding: 20px 110px;
+  }
+  .item-name{
+      font-size: 1.2rem;
+  }
+  .khoang-cach-header-section{
+      padding-left: 30px;
+  }
+  .h1-mo{
+    font-size: 3rem;
+  }
+  .mo{
+      padding: 90px 100px;
+  }
+}
+ 
+/* Small tablet to big tablet from 768x to 1023px */
+@media only screen and (max-width:1023px){
+     .col-tuychinh-item{
+       width: 100%;
+     }
+     .row-dac-biet{
+       width: 50%;
+       display: inline-block;
+     }
+     .item{
+         padding:0px 10px;
+     }
+     .bn-c1 .h1-slogan
+     {
+         font-size: 2rem;
+     }
+     .banner .bn-c1 .bn-form {
+        width: 150px;
+    }
+    .bn-c2{
+        width: 45%;
+        padding-left:0px;
+    }
+    .banner .bn-c2 .btn-courses{
+        width: 25%;   
+        height: 25%
+    }
+    .banner .bn-c2 .btn-courses p{
+        font-size: 0.8rem;
+    }
+    .banner{
+        padding-bottom: 25px;
+    }
+    .popular-course{
+        padding:20px 0px;
+    }
+    .btn-menu{
+        margin: 0px 30px;
+    }
+    .khoang-cach-header-section{
+        padding-left: 50px;
+    }
+    .properties {
+        padding: 35px 200px;
+    }
+    .h1-mo{
+        font-size: 2.5rem;
+    }
+    .moc1{
+        padding: 50px 75px;
+    }
+    .tuychinh-banner-content-phatvideo{
+        width: 100%;
+    }
+    .col-tuychinh-designer{
+        width: 50%;
+        text-align: center;
+        padding: 50px 0px
+    }
+}
+@media only screen and (max-width: 767px)
+{
+.row-dac-biet{
+    width: 100%;
+}
+.col-tuychinh{
+    width: 100%;
+}
+.btn-menu{
+    margin: 0px 0px;
+}
+.main-content-h1{
+    font-size: 2rem;
+}
+.popular-course {
+    padding: 20px 0px;
+}
+.btn-menu{
+    padding: 0px 5px;
+}
+.col-tuychinh-footer{
+    width: 100%;
+}
+.bn-c2{
+    display: none;
+}
+.header-section{
+    display: none;
+}
+.bn-c1{
+    width: 100%;
+    text-align: center;
+}
+.bn-c1 h5{
+    font-size: 1.3rem;
+}
+.bn-c1 .h1-slogan{
+    font-size: 2.3rem;
+    font-weight: bold;
+}
+.form-find{
+    display: block;
+    margin-bottom: 20px;
+}
+.banner .bn-c1 .bn-form{
+    width: 250px;
+}
+.item-content{
+    text-align: left;
+}
+.item-name{
+    font-size: 1.2rem;
+}
+.col-tuychinh-designer{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.tuychinh-banner-content{
+    text-align: center;
+    width: 100%;
+}
+.h1-mo{
+    font-size: 1.8rem;
+}
+.mo{
+    background-color: rgba(34, 42, 53, 0.7) ;
+    padding: 90px 10px;
+    margin-bottom: 100px;
+}
+.properties{
+    padding: 25px 25px
+}
+.img-video{
+    width: 250px;
+    height: auto;
+}
+.moc1{
+    padding: 20px 25px;
+}
+.item-col{
+    text-align: center;
+}
+header.top-header{
+    background-position: center;
+}
+.banner-content{
+    background-position: right;
+    background-size: cover;
+}
+.trinh-phat{
+    left: 47%;
+    top: 30%
+}
+.tuychinh-banner-content-phatvideo{
+    text-align: center;
+}
+}

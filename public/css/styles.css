@@ -1,0 +1,367 @@
+html, body {
+    width: auto !important;
+    overflow-x: hidden !important;
+  }
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header.top-header{
+    background: url(../images/slide01.jpg);
+    background-size: cover;
+}
+.header{
+    padding-top: 10px;
+    border-bottom: #4d5159 solid 1px   ;
+    background-color: rgba(34, 42, 53, 0.75);
+    
+}
+.logo{
+   background-position: center;
+}
+.logo-txt{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    position: absolute;
+    padding-top: 15px;
+    padding-left: 30px;
+    font-size: 2rem;
+}
+.navbar-dark .navbar-nav .nav-link{
+    padding: 0px 25px;
+    
+    color: #fff;
+}
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link{
+    color: #74c401;
+    
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #4b7131;
+}
+#catergories:hover{
+    color: #fff;
+}
+.space-i{
+    letter-spacing: 10px;
+}
+.categories:hover{
+    color: #fff;
+}
+.banner{
+    background-color: rgba(34, 42, 53, 0.75);
+    padding-bottom: 200px;
+}
+.bn-c1{
+    padding-top: 180px;
+    color: #fff;
+}
+.bn-c1 .h1-slogan{
+    font-size: 4rem;
+}
+.bn-c1 .p1-slogan-txt{
+    padding: 20px 0px;
+}
+.form-find{
+    display: inline-block;
+}
+.banner .bn-c1 .bn-form{
+    border: 2px #fff solid;
+    border-radius: 5px;
+    height: 45px;
+    width: 360px;
+    background-color:rgba(34, 42, 53, 0.0) ;
+    padding-left: 40px;
+    color: #646e79;
+}
+.i-serch{
+    position: absolute;
+    margin: 15px 17px;
+    z-index: 1;
+}
+.btn-findcourses{
+    display: inline-block;
+    padding: 10px 30px;
+    margin: 0px 5px ;
+    background: #5cae01;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    border:#5cae01 1px solid;
+}
+.btn-findcourses:hover{
+    background-color: rgba(34, 42, 53, 0.0) ;
+    color: #fff;
+}
+.banner .bn-c2{
+    padding-top: 180px;
+}
+.banner .bn-c2 .btn-courses{
+    display: inline-block;
+    margin: 5px 5px;
+    border:#93959a solid 2px ;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.banner .bn-c2 .btn-courses i{
+    display: block;
+    color: #5cae01;
+    text-align: center;
+    padding-top:15px;
+    font-size: 1.7rem;
+    padding-top:20px
+    
+}
+.banner .bn-c2  .an{
+    padding: 5px 55px;
+}
+.banner .bn-c2 .btn-courses p{
+    text-align: center;
+    padding-bottom : 10px;
+}
+.banner .bn-c2 .btn-courses:hover {
+    background: #fff;
+    color: #b7bdc4  ;
+}
+.header-section{
+    background: #83d102;
+    padding: 30px 0px;
+    color: #fff;
+}
+.ic-header-section i{
+    margin-top: 10px;
+    display: block;
+    font-size: 2.5rem;
+    margin-left: 20px;
+}
+.main-content-h5{
+    text-align: center;
+    margin-top: 60px;
+}
+.main-content-h1{
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+}
+.popular-course{
+    padding:20px 290px
+}
+.btn-menu{
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+    margin: 0px 40px;
+}
+.pc{
+    border-radius: 5px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.item{
+    display: inline-block;
+    margin-bottom: 35px;
+   
+}
+.item-content{
+    padding-left: 30px;
+    border: 1px solid #82c91e;
+    border-radius: 5px ;
+    border-top: none;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+}
+.item-content .item-name{
+   padding: 20px 0px;
+   padding-top: 30px;
+   
+  
+}
+.item-content i{
+    color: #82c91e;
+}
+.btn-tag{
+    display: inline-block;
+    padding: 2px 5px;
+    border: 2px solid #82c91e ;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #000;
+    margin: 25px 0px;
+}
+.banner-content{
+    background: url(../images/call-to-action.jpg);
+    color: #fff;
+    background-position:center;
+    background-size: cover;
+    margin: 50px 0px;
+    height: auto;
+    width: auto;
+    max-height: 500px;
+    max-width: 100%;
+}
+.mo{
+    background-color: rgba(34, 42, 53, 0.7) ;
+    padding: 90px 250px;
+    margin-bottom: 100px;
+}
+.h1-mo{
+    font-size: 4rem;
+    padding-bottom: 40px;
+    font-weight: bold;
+}
+.p-mo{
+    padding-bottom: 30px;
+}
+.item2{
+    text-align: center;
+    margin: 50px 0px;
+    margin-bottom: 100px;
+    
+}
+.item2 i{
+    font-size: 4rem;
+    color: #5cae01;
+}
+.item2 h5{
+    
+    padding: 20px 0px;
+}
+.item2-name-h5{
+    font-weight: bold;
+}
+.main-present{
+    font-size:2rem ;
+}
+.main-present-h5{
+    text-decoration: none;
+    color: #000;
+}
+.main-present-p{
+    text-decoration: none;
+    color: #bec4cc;
+}
+.thank-you{
+    background: #eef5fd;
+    text-align: center;
+}
+.avatar{
+    
+    border-radius: 100%;
+}
+.tweet{
+    color: #b5beca;
+    padding: 50px 0px;
+    font-size: 1.3rem;
+    font-style: italic;
+}
+.properties{
+    padding: 35px 550px;
+    
+}
+.nhaydoi{
+    color: #5cae01;
+}
+.avatar{
+    margin-top: 50px;
+}
+.name-avatar-h5{
+    padding-top: 40px;
+    font-weight: bold;
+}
+.name-teacher{
+    color: #b5beca;
+}
+.banner-footer{
+    background: #2a323c;
+    color: #fff;
+}
+
+.moc1{
+    padding: 130px 100px;
+}
+.trinh-phat-cha{
+    position: relative;
+}
+.img-video{
+    max-width: 100%;
+    width: auto;
+    height: 100%;
+}
+.trinh-phat{
+    position: absolute;
+    font-size: 4rem;
+    left:50%;
+    top: 45%;
+    order: 5;
+    color: #fff;
+}
+.trinh-phat:hover{
+    color: #82c91e;
+}
+.logo-designer{
+    padding: 100px 0px;
+}
+.img-ds{
+    opacity: 0.5;
+}
+.img-ds:hover{
+    opacity: 1;
+}
+.before-footer{
+    background: #222a35;
+    padding: 100px 0px;
+    color: #fff;
+}
+.before{
+    padding-top:50px;
+}
+.logo-txt-footer{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    position: absolute;
+    padding-top:5px;
+    padding-left: 30px;
+    font-size: 2rem;
+}
+.footer-tag{
+    color: #fff;
+    margin: 4px 0px;
+}
+.logo-mangxahoi{
+    padding-right: 10px;
+    
+}
+.mang-xa-hoi{
+    
+    color: #fff;
+    margin-bottom: 20px;
+
+}
+.mang-xa-hoi-a{
+    text-decoration: none;
+    color: #fff;
+}
+.youtube:hover{
+    color: red;
+}
+
+.facebook:hover{
+    color: blue;
+}
+.bottom-footer{
+    background: #2a323c;
+    text-align: center;
+    padding:20px 0px;
+    color: #fff;
+}
+
+
+
